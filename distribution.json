@@ -522,7 +522,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 401504169,
-            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.7-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/pQsLSLPU/Pixelmon-1.16.5-9.1.7-universal.jar",
             "MD5": "9246a3cebc78d54f20e78bc11050e627"
           }
         },
