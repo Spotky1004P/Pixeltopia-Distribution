@@ -1,0 +1,4 @@
+$body alphamon.bmd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$scale 35

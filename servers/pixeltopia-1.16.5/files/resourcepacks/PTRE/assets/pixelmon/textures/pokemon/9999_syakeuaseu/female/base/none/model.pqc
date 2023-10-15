@@ -1,0 +1,5 @@
+$body syakeuaseu.bmd
+$anim swim swim.bmd
+$anim idle idle.bmd
+$anim swimidle swimidle.bmd
+$scale 5

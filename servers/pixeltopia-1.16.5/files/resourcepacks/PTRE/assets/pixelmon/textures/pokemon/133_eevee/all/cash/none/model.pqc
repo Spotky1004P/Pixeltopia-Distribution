@@ -1,0 +1,5 @@
+$body aveon.bmd
+$anim fly fly.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 2.5

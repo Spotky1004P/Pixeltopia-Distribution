@@ -1,0 +1,4 @@
+$body ouryumon.bmd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$scale 30

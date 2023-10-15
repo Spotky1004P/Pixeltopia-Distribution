@@ -1,0 +1,4 @@
+$body armageddemon.bmd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$scale 30.0

@@ -1,0 +1,4 @@
+$body sorcermon.smd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$scale 10

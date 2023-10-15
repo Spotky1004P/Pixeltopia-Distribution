@@ -1,0 +1,4 @@
+$body alphamon-ouryuken.bmd
+$anim idle idle.bmd
+$anim walk walk.bmd
+$scale 45

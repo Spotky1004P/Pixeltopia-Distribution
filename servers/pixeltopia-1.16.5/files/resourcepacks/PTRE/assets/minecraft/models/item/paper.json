@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "trade:button/not_accept_button" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "trade:button/accept_button" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "trade:button/money_1_button" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "trade:button/money_10_button" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "trade:button/money_100_button" }
+	]
+}

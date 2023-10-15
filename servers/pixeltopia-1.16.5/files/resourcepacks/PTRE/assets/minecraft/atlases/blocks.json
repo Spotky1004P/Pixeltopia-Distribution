@@ -1,0 +1,24 @@
+{
+    "sources": [
+		{
+            "type": "single",
+            "resource": "trade:button/not_accept_button"
+        },
+		{
+            "type": "single",
+            "resource": "trade:button/accept_button"
+        },
+        {
+            "type": "single",
+            "resource": "trade:button/money_1_button"
+        },
+		{
+            "type": "single",
+            "resource": "trade:button/money_10_button"
+        },
+		{
+            "type": "single",
+            "resource": "trade:button/money_100_button"
+        }
+    ]
+}

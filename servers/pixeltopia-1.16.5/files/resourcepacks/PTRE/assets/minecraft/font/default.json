@@ -1,0 +1,15 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "negative_spaces.ttf",
+			"shift": [0.0, 0.0],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+		{
+			"type": "bitmap", "ascent": 14, "height": 131, "chars": ["\u0aa1"],
+			"file": "trade:unicode/background.png"
+		}
+	]
+}
