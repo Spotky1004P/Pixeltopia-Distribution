@@ -13,7 +13,7 @@
       "description": "픽셀토피아 서버 | 1.16.5",
       "icon": null,
       "version": "1.0.0",
-      "address": "pixeltopia.kro.kr",
+      "address": "pixeltopia.mcv.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "픽셀토피아",
@@ -387,6 +387,16 @@
           }
         },
         {
+          "id": "decor.delight:decoration_delight:1.0.0@jar",
+          "name": "Decoration Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 295012,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/Decoration_Delight_1.16.5-1.0.2.jar",
+            "MD5": "d471fa035b82fe9ff06a3fd6384fe0df"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.6.0@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -394,6 +404,106 @@
             "size": 2565217,
             "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/FarmersDelight-1.16.5-0.6.0.jar",
             "MD5": "9614adb0fe0607d00fad43b773b5434c"
+          }
+        },
+        {
+          "id": "net.mcreator.frozendelight:frozen_delight:1.1.2@jar",
+          "name": "Frozen Delight (By NoCube)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47620,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/Frozen_Delight_1.1.2_Forge_1.16.5.jar",
+            "MD5": "a6d4c44870c05a7314b124bc232f93b6"
+          }
+        },
+        {
+          "id": "infinityitemeditor:infinityitemeditor:1.2@jar",
+          "name": "Infinity Item Editor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398325,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/infinityitemeditor-1.2.jar",
+            "MD5": "bd26010c40b7daea3da9e30da999d79a"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:7.8.0.1009@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 839446,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
+            "MD5": "6c7827e443f483cc5e94aaff7c694901"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.8.5p6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6693593,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6%20(1).jar",
+            "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.0@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 992824,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-doors-1.1.0forge-mc1.16.5.jar",
+            "MD5": "112506716cc188519c4a33bf2c4da6d0"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 294223,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge%20(2).jar",
+            "MD5": "fddb089b091b67d4b9e23f9741988a1c"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1383691,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-furniture-3.2.0-mc1.16.5forge.jar",
+            "MD5": "0d7ad1afb0c7ea95012c03a94461e978"
+          }
+        },
+        {
+          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
+          "name": "Macaw's Paths and Pavings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 249277,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-paths-1.0.3forge-mc1.16.5.jar",
+            "MD5": "c3c1bf62a99b11cf4559eec377477035"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1604976,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-roofs-2.2.4-mc1.16.5forge.jar",
+            "MD5": "1333ad44361748aadc69bc82dc215907"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.2.0@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1024374,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/mcw-windows-2.2.0-mc1.16.5forge.jar",
+            "MD5": "c4ba595171af44eb963300e297f6add7"
           }
         },
         {
@@ -414,6 +524,46 @@
             "size": 399088261,
             "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/nr7jW5mI/Pixelmon-1.16.5-9.1.6-universal.jar",
             "MD5": "b6e5f81840418d8741a0e3a8c0fe0940"
+          }
+        },
+        {
+          "id": "com.pixelmonmod:pixelmon:9.1.7@jar",
+          "name": "Pixelmon Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 401504169,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.7-universal.jar",
+            "MD5": "9246a3cebc78d54f20e78bc11050e627"
+          }
+        },
+        {
+          "id": "net.mrscauthd:boss_tools:5.5e@jar",
+          "name": "Space-BossTools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2733316,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/Space-BossTools-1.16.5-5.5e.jar",
+            "MD5": "79b8abbe55a0ec09b3f98c72f10176e0"
+          }
+        },
+        {
+          "id": "info.u_team.u_team_core:uteamcore:3.2.1.258@jar",
+          "name": "U Team Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398201,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/u_team_core-1.16.5-3.2.1.258.jar",
+            "MD5": "95d960974f901c851e73c6763b42efd5"
+          }
+        },
+        {
+          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.12.1.103@jar",
+          "name": "Useful Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 167996,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/useful_backpacks-1.16.5-1.12.1.103.jar",
+            "MD5": "b6d5dde03d67b89a10235436359e8b75"
           }
         },
         {
