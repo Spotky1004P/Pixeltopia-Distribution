@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/Pixeltopia/Pixeltopia-Distribution/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1162999190377468005",
+      "smallImageText": "픽셀토피아",
+      "smallImageKey": "icon"
+    }
+  }
+}
