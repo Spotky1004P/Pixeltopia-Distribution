@@ -1,0 +1,4 @@
+$body groundramon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 9.0

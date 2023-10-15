@@ -1,0 +1,4 @@
+$body aeroveedramon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 60.0

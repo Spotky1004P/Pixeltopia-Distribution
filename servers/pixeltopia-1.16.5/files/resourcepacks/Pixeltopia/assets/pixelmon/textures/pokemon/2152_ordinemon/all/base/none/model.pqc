@@ -1,0 +1,5 @@
+$body ordinemon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly walk.bmd
+$scale 300.0

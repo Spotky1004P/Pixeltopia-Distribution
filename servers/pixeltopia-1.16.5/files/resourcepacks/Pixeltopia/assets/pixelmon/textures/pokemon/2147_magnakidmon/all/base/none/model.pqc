@@ -1,0 +1,4 @@
+$body magnakidmon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 30.5

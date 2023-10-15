@@ -1,0 +1,4 @@
+$body palmon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 30.0

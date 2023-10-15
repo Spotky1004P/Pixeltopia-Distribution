@@ -1,0 +1,5 @@
+$body daemon(cloaked).bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly walk.bmd
+$scale 3.0

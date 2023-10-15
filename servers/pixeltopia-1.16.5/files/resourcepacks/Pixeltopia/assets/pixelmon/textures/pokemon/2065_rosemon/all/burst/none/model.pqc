@@ -1,0 +1,5 @@
+$body rosemon_burst.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly walk.bmd
+$scale 41.3

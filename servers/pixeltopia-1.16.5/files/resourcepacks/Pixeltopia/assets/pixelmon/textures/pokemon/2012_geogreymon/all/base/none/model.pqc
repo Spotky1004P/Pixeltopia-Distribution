@@ -1,0 +1,4 @@
+$body geogreymon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 40.0

@@ -1,0 +1,4 @@
+$body soulmon_1.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 30.0

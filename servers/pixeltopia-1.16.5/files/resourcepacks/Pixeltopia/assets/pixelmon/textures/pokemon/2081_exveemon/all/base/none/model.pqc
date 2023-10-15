@@ -1,0 +1,4 @@
+$body exveemon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 29.0

@@ -1,0 +1,5 @@
+$body omegamonalterb.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly fly.bmd
+$scale 120.0

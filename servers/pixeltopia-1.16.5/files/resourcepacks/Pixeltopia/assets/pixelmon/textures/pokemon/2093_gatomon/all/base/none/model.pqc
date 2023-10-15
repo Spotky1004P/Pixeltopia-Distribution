@@ -1,0 +1,4 @@
+$body gatomon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 16.5

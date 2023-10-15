@@ -1,0 +1,5 @@
+$body uiforceveedramon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly walk.bmd
+$scale 38.0

@@ -1,0 +1,5 @@
+$body magnadramon.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$anim fly walk.bmd
+$scale 50.0

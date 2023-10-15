@@ -1,0 +1,4 @@
+$body jesmongx.bmd
+$anim walk walk.bmd
+$anim idle idle.bmd
+$scale 53.4
