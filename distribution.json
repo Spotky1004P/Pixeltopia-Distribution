@@ -447,6 +447,16 @@
           }
         },
         {
+          "id": "io.izzel.lightfall.client:lightfallclient:1.0.0+unknown@jar",
+          "name": "LightfallClient",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10745,
+            "url": "https://github.com/Spotky1004P/Pixeltopia-Distribution/raw/main/servers/pixeltopia-1.16.5/forgemods/required/lightfall-client-1d4473d.jar",
+            "MD5": "b61a72de06b090eaae37157cd0c49a85"
+          }
+        },
+        {
           "id": "com.mcwdoors.kikoz:mcwdoors:1.1.0@jar",
           "name": "Macaw's Doors",
           "type": "ForgeMod",
